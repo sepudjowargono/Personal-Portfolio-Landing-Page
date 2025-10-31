@@ -65,15 +65,16 @@ If you’d like to collaborate or provide feedback, feel free to open a pull req
 ## 🔮 Future Improvements
 
 🔜 Add a custom logo to the navigation bar
+
 🔜 Implement responsive design with media queries
+
 🔜 Include social media icons in the footer
+
 🔜 Replace placeholder text and images with real portfolio content
 
 ## 🧱 Built With
 
-HTML5
-CSS3
-Flexbox Layout
+HTML5, CSS3, Flexbox Layout
 
 
 
